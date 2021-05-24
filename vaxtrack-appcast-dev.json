@@ -4,6 +4,7 @@
     "ver" : "1.0.0",
     "ver_int" : "10023",
     "ver_int_old": "10022",
-    "app" : "Vaxtrack"
+    "app" : "Vaxtrack",
+    "ver_check" : "2"
 }
 
