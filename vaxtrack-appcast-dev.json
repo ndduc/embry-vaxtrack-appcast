@@ -3,6 +3,7 @@
     "build" : "22",
     "ver" : "1.0.0",
     "ver_int" : "10022",
+    "ver_int_old": "10021",
     "app" : "Vaxtrack"
 }
 
