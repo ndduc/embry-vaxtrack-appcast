@@ -1,8 +1,8 @@
 {
-    "version" : "1.0.0+25",
-    "build" : "25",
+    "version" : "1.0.0+26",
+    "build" : "26",
     "ver" : "1.0.0",
-    "ver_int" : "10025",
+    "ver_int" : "10026",
     "app" : "Vaxtrack",
     "ver_check" : "-1"
 }
