@@ -1,0 +1,9 @@
+{
+    "version" : "1.0.0+1",
+    "build" : "1",
+    "ver" : "1.0.0",
+    "ver_int" : "1001",
+    "app" : "Vaxtrack",
+    "ver_check" : "-1"
+}
+
